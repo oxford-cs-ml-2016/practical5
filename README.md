@@ -39,4 +39,4 @@ th -i jacobiancheck.lua
 It will run right off the bat, so **you may use this to test your ReQU derivative** before you try writing the gradient checker. There is a TODO in this file for the final part.
 
 # See course page for practicals
-<https://www.cs.ox.ac.uk/people/varun.kanade/machinelearning/>
+<https://www.cs.ox.ac.uk/people/varun.kanade/ML2016/>
